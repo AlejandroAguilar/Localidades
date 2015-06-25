@@ -1,0 +1,26 @@
+<div class='googft-info-window'>
+<b>ID:</b> 11195<br>
+<b>idEstadoMunicipio:</b>29010<br>
+<b>Agua:</b> 1<br>
+<b>Predial:</b> 1<br>
+<b>latitude:</b>19.3230913<br>
+<b>longitude:</b>-98.1829405
+</div>
+
+<div class='googft-info-window'>32
+<b>ID:</b> 1209<br>51 (19)
+<b>idEstadoMunicipio:</b>29010<br>(34)
+<b>Agua:</b> 1<br>(18)
+<b>Predial:</b> 1<br>
+<b>latitude:</b>19.3230913<br>
+<b>longitude:</b>-98.1829405
+</div>
+
+
+<div class='googft-info-window'>
+<div style='width: 130px; height: 220px; overflow: auto;'>
+<center><h4 style="color: Red" >Propiedad: 11195</h4> </center>
+<b>idEstadoMunicipio:</b>29010<br>
+<b>Agua:</b> Al corriente<br>
+<b>Predial:</b> Al corriente<br>
+</div>
